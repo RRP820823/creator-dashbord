@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box !important;
+  font-family: Strawford;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+/* Top Post */
+/* Top products */
+/* Top stores */
+
+canvas {
+  min-width: 100%;
+}
+
+input {
+  text-align: center;
+}
